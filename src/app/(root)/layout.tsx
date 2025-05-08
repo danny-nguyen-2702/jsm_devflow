@@ -1,5 +1,5 @@
 import Navbar from "@/components/navigation/navbar";
-import LeftSideBar from "@/components/navigation/navbar/LeftSideBar";
+import LeftSideBar from "@/components/navigation/LeftSideBar";
 import React, { ReactNode } from "react";
 
 const RootLayout = ({ children }: { children: ReactNode }) => {
